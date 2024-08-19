@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "guardiancare-a210f"
+  },
+  "targets": {
+    "guardiancare-a210f": {
+      "hosting": {}
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
