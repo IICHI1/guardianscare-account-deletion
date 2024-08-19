@@ -8,7 +8,7 @@ export default function Header() {
         {/* <MainNav /> */}
         {/* <UserButton /> */}
         <Image
-          src="/logo.png"
+          src="https://i.ibb.co/zhN6QnT/logo.png"
           alt="Logo"
           width="30"
           height="30"

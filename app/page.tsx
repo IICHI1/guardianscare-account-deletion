@@ -9,7 +9,7 @@ export default async function Index() {
     <div className="flex flex-col gap-8 text-center p-4 sm:p-8">
       <Button variant="ghost" className="p-0 mx-auto">
         <Image
-          src="/auth.png"
+          src="https://i.ibb.co/NTDCbX1/auth.png"
           alt="Auth"
           width="50"
           height="50"
