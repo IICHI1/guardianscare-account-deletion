@@ -8,7 +8,7 @@ export default function Header() {
         {/* <MainNav /> */}
         {/* <UserButton /> */}
         <Image
-          src="/logo.PNG"
+          src="/logo.svg"
           alt="Logo"
           width="30"
           height="30"
